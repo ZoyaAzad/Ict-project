@@ -1,0 +1,257 @@
+body {
+  height: 100vh;
+  background: linear-gradient(to right, grey 68%, rgb(110, 133, 66) 26%);
+
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 75px;
+  font-weight: bold;
+  margin-top: 50px; /* Adjust top spacing as needed */
+  height: 80;
+  width: 280;
+}
+
+p {
+  font-family: 'Montagu Slab'; /* Ensure a fallback font for wider compatibility */
+  font-size: 120px;
+  height: 800;
+  text-align: left;
+  margin-left: 40%;
+  transform: translateX(-50%); /* Center the paragraph horizontally */
+  width: 720;
+  font-weight: bold;
+}
+
+.new-fashion {
+  font-family: 'Marcellus';
+  position: absolute;
+  bottom: 40px; /* Adjust bottom spacing as needed */
+  left: 600px; /* Adjust left spacing as needed */
+  font-size: 400px;
+}
+
+.blend-image { object-fit: cover; /* Ensure image covers the container */
+  mix-blend-mode:overlay ; /* Blend image with background */
+ 
+}
+.image-container {
+  bottom: 0%;
+  height: 0px;
+  width: 100%;
+  display: block;
+  overflow:visible;
+}
+.categories-section {
+  position: absolute; /* Use absolute positioning for precise control */
+  top: 5%; /* Start halfway down from the top */
+  /* Right margin reduced to move it leftward: */
+  right: 40px; /* Adjust this value further for more leftward movement */
+  transform: translateY(-50%); /* Vertically center the section */
+left: 30%;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.categories-section h2 {
+  margin: 0px; /* Maintain spacing around the heading */
+}
+select option {
+  font-size: 60px; /* Adjust this value to your desired size */
+}
+.Categories {
+  position: absolute;
+  top: 2%;
+  right: 20%;
+  /* Use the standard 'color' property for consistent black text: */
+  color: black;
+  font-size: 40px;
+  font-weight: bolder;
+  text-decoration: black;
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+}
+h5 {
+  font-size: 50px;
+  font-weight: bold;
+
+  /* Position at top left: */
+  position: absolute; /* Use absolute positioning for precise control */
+  top: 1%; /* Set top edge to the top of the containing element */
+  left: 35%; /* Set left edge to the left of the containing element */
+font-weight: bolder;
+text-decoration: black;
+  /* Center horizontally within its container: */
+  transform: translateX(-50%); /* Shift left by half of its width */
+
+}
+h6 {
+  position: absolute; /* Use absolute positioning for precise control */
+  top: 0; /* Set top edge to the top of the containing element */
+  left: 0; /* Set left edge to the left of the containing element */
+  font-size: 50px;
+  font-weight: bold;
+  left: 20%;
+
+}
+.image-containers {
+  position: absolute;
+  left: 75%;
+  transform: translateX(-50%);
+  top: 55%;
+  transform: translateY(-50%);
+  height: .6in;
+  width: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+  background-color: olivegreen;
+}
+
+.image-containerS {
+  position: absolute;
+  left: 75%;
+  transform: translateX(-50%);
+  top: 70%; /* Place it below .image-containers */
+  height: .6in; /* Same height as .image-containers */
+  width: 40px;  /* Same width as .image-containers */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center; /* Same vertical alignment */
+}
+
+footer {
+  height: 140px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  background-color:  rgba(134, 136, 129, 0.712);
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+.fa {
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+}
+
+.fa:hover {
+opacity: 0.7;
+}
+
+.fa-facebook {
+background: #6f7a92;
+color: white;
+}
+
+.fa-twitter {
+background: #9cc7e7;
+color: white;
+}
+
+.fa-google {
+background: #cc887f;
+color: white;
+}
+
+.fa-linkedin {
+background: #73a3b9;
+color: white;
+}
+
+.fa-youtube {
+background: #a86363;
+color: white;
+}
+
+.fa-instagram {
+background: #516c80;
+color: white;
+}
+
+.fa-pinterest {
+background: #9b6667;
+color: white;
+}
+
+.fa-snapchat-ghost {
+background: #8d8c59;
+color: white;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+background: #5e7a85;
+color: white;
+}
+
+.fa-android {
+background: #7c855e;
+color: white;
+}
+
+.fa-dribbble {
+background: #e993b4;
+color: white;
+}
+
+.fa-vimeo {
+background: #9cd5f7;
+color: white;
+}
+
+.fa-tumblr {
+background: #48525c;
+color: white;
+}
+
+.fa-vine {
+background: #70ad9f;
+color: white;
+}
+
+.fa-foursquare {
+background: #a1dbfd;
+color: white;
+}
+
+.fa-stumbleupon {
+background: #dd9382;
+color: white;
+}
+
+.fa-flickr {
+background: #ee8bc0;
+color: white;
+}
+
+.fa-yahoo {
+background: #6b5688;
+color: white;
+}
+
+.fa-soundcloud {
+background: #f5b392;
+color: white;
+}
+
+.fa-reddit {
+background: #f0ad8b;
+color: white;
+}
+
+.fa-rss {
+background: #f5be99;
+color: white;
+} 
