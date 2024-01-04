@@ -1,2 +1,7 @@
-
-![$8_99 6PC Claw Clip Hair Accessories __ link below](https://github.com/ZoyaAzad/Ict-project/assets/155264364/6d4a8b5f-ade0-4857-a634-0395a7575852)
+![$8_99 6PC Claw Clip Hair Accessories __ link below](https://github.com/ZoyaAzad/Ict-project/assets/155264364/0fae240e-2c9b-41aa-86d7-cd57e4416dd6)
+![Come scegliere gli occhiali da sole_ consigli pratici – Con cosa lo metto_](https://github.com/ZoyaAzad/Ict-project/assets/155264364/257c3527-7d64-4f2a-bc24-0b3f5430a83c)
+![Chanel Business Affinity Bag _ Bragmybag](https://github.com/ZoyaAzad/Ict-project/assets/155264364/28789455-c1f9-4603-bc28-d8625d9213a5)
+![Boston White Crochet Mini Dress  _ Shop Mini Dresses by Beginning Boutique](https://github.com/ZoyaAzad/Ict-project/assets/155264364/74e09afd-499b-4f10-8520-da215a1fc689)
+![Beautiful Pink O Neck Print Side Open Silk Long Dresses Summer - S(Fit for EU 38-40, US 6-8, UK_AU 10-12, IT 42-44)](https://github.com/ZoyaAzad/Ict-project/assets/155264364/bc56fb13-b104-442b-9850-50cea5f23db2)
+![826ca629-7d42-4630-bc92-429c054f5f3b](https://github.com/ZoyaAzad/Ict-project/assets/155264364/b771b100-d476-453a-bfac-51f3fc7163fc)
+![$8_99 6PC Claw Clip Hair Accessories __ link below](https://github.com/ZoyaAzad/Ict-project/assets/155264364/2f362d8e-ec9e-448d-991f-ac2a79ca11a4)
